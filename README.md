@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor Full-Stack`**
 
-Me chamo Ismael, Alvesz é um apelido, tenho 19 anos e sou natural de Governador Valadares-MG. Concluí o ensino médio no Abílio Rodrigues Patto, cursei técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia e Hardware.
+Me chamo Ismael, tenho 19 anos e sou natural de Governador Valadares-MG. cursei técnico em informática. Atualmente, estou cursando Engenharia de Software na Anhanguera. Sou apaixonado por tecnologia e Hardware.
 
 ---
 
