@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Ismael (Catatau)
 
-**`Futuro Desenvolvedor Full-Stack`**
+**`Futuro Desenvolvedor Full-Stack & Engenheiro de Software`**
 
 Me chamo Ismael, tenho 20 anos e sou natural de Governador Valadares-MG. cursei ADS. Atualmente, estou cursando Engenharia de Software na Anhanguera. Sou apaixonado por tecnologia, hardware e futebol.
 
