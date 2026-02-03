@@ -1,8 +1,8 @@
-# 🧑🏽‍💻 Ismael Alvesz
+# 🧑🏽‍💻 Ismael (Catatau)
 
 **`Futuro Desenvolvedor Full-Stack`**
 
-Me chamo Ismael, tenho 19 anos e sou natural de Governador Valadares-MG. cursei técnico em informática. Atualmente, estou cursando Engenharia de Software na Anhanguera. Sou apaixonado por tecnologia e Hardware.
+Me chamo Ismael, tenho 20 anos e sou natural de Governador Valadares-MG. cursei técnico em informática. Atualmente, estou cursando Engenharia de Software na Anhanguera. Sou apaixonado por tecnologia, hardware e futebol.
 
 ---
 
